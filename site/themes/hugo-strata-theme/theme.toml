@@ -1,9 +1,3 @@
-baseurl = "/"
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
-languageCode = "en-us"
-languageLang = "en"
-title = "My new Victor-Hugo site"
-
 name = "Strata"
 license = "Creative Commons Attribution 3.0 Unported"
 licenselink = "//github.com/digitalcraftsman/hugo-strata-theme/blob/master/LICENSE.md"
@@ -22,18 +16,3 @@ min_version = 0.16
   name = "AJ"
   homepage = "//html5up.net/"
   repo = ""
-
- [[menu.main]]
-  name = "Home"
-  url  = "/"
-  weight = 0
-
- [[menu.main]]
-  name = "About"
-  url  = "about"
-  weight = 5
-
- [[menu.main]]
-  name = "Blog"
-  url  = "post/"
-  weight = 10
